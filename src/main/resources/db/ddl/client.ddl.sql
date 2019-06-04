@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS CLIENT (
+    id IDENTITY,
+    gfc_id VARCHAR(200),
+	name VARCHAR(200)
+);
